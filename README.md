@@ -1,1 +1,1 @@
-# quiz-game
+# quiz-game using javascript(React)
